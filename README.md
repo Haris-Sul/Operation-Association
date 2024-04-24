@@ -22,11 +22,11 @@ Features include:
 - Turn times and word proximity adapt for difficult words to connect to
 
 <br><br><br>
-![Game review phase showing winner and definitions](https://imgur.com/eYnJEbm?raw=true)
+![Game review phase showing winner and definitions](https://imgur.com/eYnJEbm.png?raw=true)
 <br><br>
-![Repeated base word giving score decrease](https://imgur.com/vA6hpkI?raw=true)
+![Repeated base word giving score decrease](https://imgur.com/vA6hpkI.png?raw=true)
 <br><br>
-![Midway game in switching phase](https://imgur.com/0wOKGW2?raw=true)
+![Midway game in switching phase](https://imgur.com/0wOKGW2.png?raw=true)
 <br><br><br>
-![ComplexDiagram1: diagram of initial complex design](https://imgur.com/2NbpuBV?raw=true)
+![ComplexDiagram1: diagram of initial complex design](https://imgur.com/2NbpuBV.png?raw=true)
 <br><br>
