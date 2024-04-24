@@ -371,8 +371,8 @@ class Game_page(ctk.CTkFrame):
         self.entry_text_label = ctk.CTkLabel(self, text="Enter a Word:", text_color=yellow, font=('Arial', 24,'bold'))
         self.entry_text_label.place(x=770,y=25, anchor='center')
 
-        self.space_value_label = ctk.CTkLabel(self, text="0%", text_color=yellow, font=('Arial', 24,'bold'), bg_color=red, corner_radius=5)
-        self.space_value_label.place(x=170,y=57, anchor='ne')
+        self.space_value_label = ctk.CTkLabel(self, text="0%", text_color=yellow, font=('Arial', 27,'bold'), bg_color=red, corner_radius=5)
+        self.space_value_label.place(x=130,y=54, anchor='nw')
         
         # the labels just use manual formatting as have less parameters
         self.msg_label = ctk.CTkLabel(self, text="Player 1: Type a word and hit Enter to start!", text_color=orange, font=('Arial', 28,'bold'))
