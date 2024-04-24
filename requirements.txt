@@ -1,0 +1,9 @@
+# Additional steps required:
+# Run the following command to download the spaCy model:
+# python -m spacy download en_core_web_lg
+
+customtkinter==5.2.2
+nltk==3.8.1
+Pillow==10.3.0
+pyenchant==3.2.2
+spacy==3.7.2
