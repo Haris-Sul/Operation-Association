@@ -146,7 +146,7 @@ class Choose_name_page(ctk.CTkFrame):
         self.name1_label.place(x=ctrl.width/2, y=250, anchor='center')
 
         self.entry = ctk.CTkEntry(master=self, font=('Arial', 34,'bold'), width=250, text_color=light_blue, border_color=light_blue, corner_radius=0)
-        self.entry.place(x=750, y=20, anchor='center')
+        self.entry.place(x=ctrl.width/2, y=350, anchor='center')
 
         # wrapper function as shown in tkinter docs
         validation_wrapper = (self.register(ctrl.check_entry), '%P')
